@@ -1,7 +1,7 @@
 # ComfyUI-HaoranWanxImageEdit
 
 [![中文版](https://img.shields.io/badge/文档-简体中文-blue.svg)](README.md)
-[![English Version](https://img.shields.io/badge/Document-English-red.svg)](README_EN.md)
+[![English Version](https://img.shields.io/badge/Document-English-red.svg)](README - EN.md)
 
 ---
 
@@ -188,5 +188,6 @@ A: 结果URL有效期24小时，请及时保存。
 ## 许可证
 
 MIT License
+
 
 
