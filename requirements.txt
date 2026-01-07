@@ -1,0 +1,7 @@
+# ComfyUI-HaoranWanxImageEdit 依赖
+# 阿里云通义万相2.1图像编辑插件
+
+requests>=2.28.0
+Pillow>=9.0.0
+numpy>=1.21.0
+
