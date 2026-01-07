@@ -1,9 +1,12 @@
-# ComfyUI-HaoranWanxImageEdit
+<img width="1459" height="723" alt="Snipaste_2026-01-07_15-53-34" src="https://github.com/user-attachments/assets/a9808157-4187-4e7a-bf10-3b36c6d8bcf6" /># ComfyUI-HaoranWanxImageEdit
 
 [![中文版](https://img.shields.io/badge/文档-简体中文-blue.svg)](README.md)
 [![English Version](https://img.shields.io/badge/Document-English-red.svg)](README_EN.md)
 
 ---
+## Workflow Example
+![Wanx 2.1 Workflow](./assets/workflow_demo.png)
+
 
 阿里云通义万相2.1图像编辑 ComfyUI 插件
 
@@ -188,6 +191,7 @@ A: 结果URL有效期24小时，请及时保存。
 ## 许可证
 
 MIT License
+
 
 
 
