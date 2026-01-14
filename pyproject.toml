@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-haoran-wanx-image-edit"
+description = "ComfyUI 适配的阿里云万相 (Wanx) 图像编辑节点，支持涂鸦擦除、局部重绘等功能。"
+version = "0.1.0"
+license = { text = "MIT" }
+dependencies = ["requests"]
+
+[project.urls]
+Repository = "https://github.com/GonDesign/ComfyUI-HaoranWanxImageEdit"
+
+[tool.comfy]
+PublisherId = "guirong" # <--- 这里删掉，换成你在 Registry 官网看到的那个 @ 名字
+DisplayName = "Haoran Wanx Image Edit"
+Icon = "https://raw.githubusercontent.com/GonDesign/ComfyUI-HaoranWanxImageEdit/main/icon.png" # 如果有图标的话
